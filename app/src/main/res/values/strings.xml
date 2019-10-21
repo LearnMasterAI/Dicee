@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_dice">ROLL</string>
+
+    <string name="descriptionLogo">It save the name of my app</string>
+    <string name="descriptionLeftDice">It contian a dice in the left</string>
+    <string name="descriptionRightDice">It contian a dice in the right</string>
+</resources>
